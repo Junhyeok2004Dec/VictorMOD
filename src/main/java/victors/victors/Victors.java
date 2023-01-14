@@ -26,7 +26,6 @@ public class Victors {
 
 
 	public static final String MODID = "VictorMOD";
-	public static final String 
 
 
 	public Victors() {
@@ -82,9 +81,4 @@ public class Victors {
 	}
 
 
-	Blocks blocks = new Blocks();
-
-	public void victor() {
-		blocks.getClass()
-	}
 }
